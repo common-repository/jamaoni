@@ -1,0 +1,67 @@
+.drag {
+	width:50px;
+	height:50px;
+	background:#c8e544;
+	position:absolute;
+    background-image:url(toad-icon.png); background-repeat: no-repeat;	background-position: 50%;
+	border:1px solid #c8e544;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+
+
+}
+
+#trag {
+	width:50px;
+	height:50px;
+	background:#c8e544;
+    background-image:url(start-icon.png);
+   	background-position: 50%;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#trash {
+	margin-top:100px;
+	width:60px;
+	height:100px;
+	background:#000;
+	color:#FFFFFF;
+	background-image:url(boo-icon.png);
+	background-repeat: no-repeat;
+	background-position: 50%;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+.preventImg {
+    background-image:url(toad-icon.png);
+    background-repeat: no-repeat;
+}
+#color {
+	margin-top:100px;
+	float:left;
+	border:1px solid #cccccc;
+	padding:20px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:#c8e544;
+
+}
+
+#colortext{
+	text-transform:uppercase;
+}
+
+#help {
+	border:1px solid #cccccc;
+	background:#f1f1f1;
+	color:#FF00FF;
+	padding:2px;
+	width:100%;
+	
+}
+
